@@ -1,5 +1,9 @@
 # app-vuetify-vuex
 
+### Version de node
+
+* v18.14.2
+
 ## Project setup
 ```
 npm install
